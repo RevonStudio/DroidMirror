@@ -1,8 +1,8 @@
 # DroidMirror
 
-[English version below] | [Versão em Português abaixo]
 
 ![DroidMirror Screenshot](assets/print.png)
+---
 ![DroidMirror Screenshot](assets/print2.png)
 
 ---
