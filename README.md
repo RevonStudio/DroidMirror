@@ -2,6 +2,8 @@
 
 [English version below] | [Versão em Português abaixo]
 
+![DroidMirror Screenshot](assets/print.png)
+
 ---
 
 ## English
